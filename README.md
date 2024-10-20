@@ -9,7 +9,7 @@
   - [Cutting-edge Techs] NGS, CRISPR screening
   - [Clinical Application] Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Experiences:
-        Wet Lab: hPSC Maintenance & Differentiation, Gene Editing, Mouse Model...
+        Wet Lab: hPSC Maintenance & Differentiation, Gene Editing, In vitro fertilization (IVF), Mouse Model...
         Dry Lab: scRNA-seq, RNA-seq, ChIP-seq
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
 <p align="right">
