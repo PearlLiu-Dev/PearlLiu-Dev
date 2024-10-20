@@ -5,7 +5,7 @@
 #### 💻 I’m currently learning: 
        Shell, R, Perl, Python, Groovy
 #### 🌟 Interests: 
-  - [Development Bio] Stem Cell, Embryo Reprogramming, ZGA, In vitro models
+  - [Development BioL] Stem Cell, Embryo Reprogramming, ZGA, In vitro models
   - [Cutting-edge Techs] NGS, CRISPR screening
   - [Clinical Application] Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Experiences:
