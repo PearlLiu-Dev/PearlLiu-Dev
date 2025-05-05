@@ -7,9 +7,9 @@
 #### 💻 I’m currently learning: 
        Shell, R, Perl, Python, Groovy
 #### 🌟 Interests: 
-  - [Development Biol] Stem Cell, Embryo Reprogramming, ZGA, In vitro/vivo models
-  - [Cutting-edge Techs] NGS, CRISPR screening
-  - [Clinical Application] Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
+  - Stem Cell, Reprogramming, ZGA, Organoid, organ-on-chip
+  - NGS, CRISPR screening
+  - Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Experiences:
         Wet Lab: hPSC Maintenance & Differentiation, Gene Editing, In vitro fertilization (IVF), Mouse Model...
         Dry Lab: scRNA-seq, RNA-seq, ChIP-seq, Cut&RUN...
